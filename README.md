@@ -1,9 +1,9 @@
-### BANNER HERE
-
 ### Philosopher, Coder, Designer
 
-## Contact Info
+Hi, I'm Alan Sato and welcome to my Github profile!
 
+## Contact Info
+sam.alan.sato@gmail.com
 <!--
 **halfcreative/halfcreative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
